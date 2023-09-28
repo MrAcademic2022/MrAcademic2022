@@ -1,5 +1,8 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2A17E8F0&width=435&lines=Medical+university+student;Data+Science+researcher)](https://git.io/typing-svg)
 
+<h1 align="center">Hi there, I'm <a href="https://github.com/MrAcademic2022" target="_blank">Vitalii</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Pirogov Russian National Research Medical University Student 🇷🇺</h3>
 
 - 🌱 I’m currently learning **python**
 - 📫 How to reach me: **volkov.vv.work@mail.ru**
