@@ -25,3 +25,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
 </p>
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAcademic2022)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAcademic2022&layout=compact)](https://github.com/MrAcademic2022/github-readme-stats)
