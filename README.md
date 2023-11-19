@@ -26,6 +26,13 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+### Diplomas:
+<p align="left">
+<a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/FCE-upper-intermediate.svg" alt="MrAcademic2022" height="40" width="40" /></a>
+<a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/hackathon-on-bioinformatics-and-clinical-oncology.svg" height="40" width="40" /></a>
+</p>
+
+
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAcademic2022)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAcademic2022&layout=compact)](https://github.com/MrAcademic2022/github-readme-stats)
