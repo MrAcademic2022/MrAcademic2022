@@ -4,7 +4,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Pirogov Russian National Research Medical University Student 🇷🇺</h3>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python**, **AI**, **machine learning**, **data science**
 - 📫 How to reach me: **volkov.vv.work@mail.ru**
 - 🌍 I speak Russian (native), English (С1)
 
