@@ -35,6 +35,10 @@
 <a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/hackathon-on-bioinformatics-and-clinical-oncology.svg" height="40" width="40" /></a>
 <a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/YandexPracticum.png" height="40" width="40" /></a> 
   <a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/Introduction-to-Linux.svg" height="40" width="40" /></a> 
+<a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/Golden%20medal%20first%20merged.jpg" height="40" width="40" /></a> 
+<a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/Golden%20medal%20second%20merged.jpg" height="20" width="40" /></a> 
+<a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/Pirogovka.jpg" height="50" width="30" /></a> 
+  <a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/Volkov_IELTS.jpg" height="50" width="30" /></a> 
 </p>
 
 
