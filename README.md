@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **python**
 - 📫 How to reach me: **volkov.vv.work@mail.ru**
-- 🌍 I speak Russian (native), English (B2)
+- 🌍 I speak Russian (native), English (С1)
 
 ### Connect with me:
 <p align="left">
