@@ -18,15 +18,15 @@
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/postgresql.svg" alt="python" width="40" height="40"/> </a>   
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/gnubash.svg" alt="python" width="40" height="40"/> </a>   
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/gnubash.svg" alt="python" width="40" height="40"/> </a>   
 </p>
 
 ### Tools:
 <p align="left"> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/linux.svg" alt="python" width="40" height="40"/> </a>  
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/ubuntu.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/linux.svg" alt="python" width="40" height="40"/> </a>  
+<a href="https://ubuntu.com/download/desktop" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/ubuntu.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
 ### Diplomas:
