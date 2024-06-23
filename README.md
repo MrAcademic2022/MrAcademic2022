@@ -29,7 +29,7 @@
 <a href="https://ubuntu.com/download/desktop" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/ubuntu.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-### Diplomas:
+### [Diplomas](https://github.com/MrAcademic2022/my_diplomas):
 <p align="left">
 <a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/Diploma_2-1.jpg" alt="MrAcademic2022" height="40" width="40" /></a>
     <a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/Volkov_IELTS.jpg" height="50" width="30" /></a> 
