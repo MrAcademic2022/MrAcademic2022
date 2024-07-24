@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/MrAcademic2022" target="_blank">Vitalii</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Pirogov Russian National Research Medical University Student 🇷🇺</h3>
+<h3 align="center">Pirogov Russian National Research Medical University Graduate 🇷🇺</h3>
 
 - 🌱 I’m currently learning **python**, **AI**, **machine learning**, **data science**
 - 📫 How to reach me: **volkov.vv.work@mail.ru**
