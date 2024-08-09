@@ -11,7 +11,6 @@
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/Mr_Academic" target="blank"><img align="center" src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/Telegram.svg" alt="MrAcademic2022" height="40" width="40" /></a>
-<a href="https://vk.com/mr_academic" target="blank"><img align="center" src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/vk.svg" height="40" width="40" /></a>
 </p>
 
 ### Languages:
