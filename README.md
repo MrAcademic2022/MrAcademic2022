@@ -26,6 +26,7 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/linux.svg" alt="python" width="40" height="40"/> </a>  
 <a href="https://ubuntu.com/download/desktop" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/ubuntu.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/MrAcademic2022/MrAcademic2022/blob/main/icons/git.svg" alt="python" width="40" height="40"/> </a>   
 </p>
 
 ### [Diplomas](https://github.com/MrAcademic2022/my_diplomas):
